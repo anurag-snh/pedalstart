@@ -1,0 +1,27 @@
+{
+  "name": "pedalstart-startup-filter",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvtojson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "clipboardy": "^4.0.0",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "google-auth-library": "^9.15.1",
+    "google-spreadsheets": "^2.0.0",
+    "jimp": "^1.6.0",
+    "puppeteer": "^24.2.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "xlsx": "^0.18.5"
+  }
+}
